@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-now then
-=======
-now when
->>>>>>> refs/remotes/origin/master
+alex
