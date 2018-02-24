@@ -1,8 +1,1 @@
-alex
-<<<<<<< HEAD
-guligush
-=======
-guliver
->>>>>>> refs/remotes/origin/master
-tamar
-david
+now
