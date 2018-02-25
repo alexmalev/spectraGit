@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tamar is on the phone and watching
-=======
-tamar is on the phone and sleeping
->>>>>>> refs/remotes/origin/master
+tamar is on the phone also
