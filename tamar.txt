@@ -1,6 +1,1 @@
-tamar 
-<<<<<<< HEAD
-is on the phone and eating
-=======
-is on the phone and watching a movie
->>>>>>> refs/remotes/origin/master
+tamar is on the phone and eating
