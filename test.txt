@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-alex
-=======
-tamar
->>>>>>> refs/remotes/origin/master
+this is test
