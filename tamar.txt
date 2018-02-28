@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-tamar is on the phone and drinking
+tamar iss on the phone and drinking
 =======
 tamar is on the phone and learning
 >>>>>>> FETCH_HEAD
