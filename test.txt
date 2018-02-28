@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is new sometfhing
+this isd new sometfhing
 =======
 this is new file
 >>>>>>> FETCH_HEAD
