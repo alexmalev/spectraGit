@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tamar
+=======
+guli
+>>>>>>> FETCH_HEAD
